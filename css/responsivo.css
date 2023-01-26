@@ -1,0 +1,28 @@
+@media screen and (max-width:1094px){
+
+.logo{
+    text-align: center;
+}
+
+.menu{
+    display: none;
+}
+
+.conteudo{
+    flex: 100%;
+    text-align: center;
+}
+
+.imgagem-header{
+    flex: 100%;
+}
+
+.card{
+    width: 80%;
+    margin: 5%;
+}
+
+.whats{
+    display: none;
+}
+}
